@@ -1,4 +1,5 @@
 Hi there, I'm Shayekh Mohiuddin Ahmed Navid 👋
+
 🔭 I'm currently working as a Research Assistant at the Fraunhofer Institute IAIS in Sankt Augustin, focusing on evaluating and comparing different optimization strategies for neural networks. Before this, I was a Junior Data Scientist at Bingooo AG in Bonn, where I processed over 3 million data points using PySpark for machine learning, among other things.
 
 🌱 I'm currently pursuing my Masters in Web and Data Science from the University of Koblenz, deepening my knowledge in a field I'm passionate about.
