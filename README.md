@@ -14,7 +14,7 @@ Hi there, I'm Shayekh Mohiuddin Ahmed Navid 👋
 
 📈 I'm passionate about data science, machine learning, and cloud computing, always eager to learn more and tackle new challenges.
 
-📫 How to reach me: LinkedIn | GitHub
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shayekhnavid/) | GitHub
 
 
 
