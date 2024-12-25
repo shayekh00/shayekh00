@@ -1,20 +1,38 @@
 Hi there, I'm Shayekh Mohiuddin Ahmed Navid 👋
 
-🔭 I'm currently working as a Research Assistant at the Fraunhofer Institute IAIS in Sankt Augustin, focusing on evaluating and comparing different optimization strategies for Large Language Models. Before this, I was a Junior Data Scientist at Bingooo AG in Bonn, where I processed over millions of data points using PySpark for machine learning, among other things.
+🔭 Currently:
+I am a Research Assistant at the Fraunhofer Institute IAIS in Sankt Augustin, Germany, where I focus on evaluating and optimizing strategies for Large Language Models (LLMs), including multi-modal systems and advanced neural networks.
 
-🌱 I'm currently also pursuing my Masters in Web and Data Science from the University of Koblenz, deepening my knowledge in a field I'm passionate about.
+🌱 Academics:
+I am pursuing a Master's in Web and Data Science at the University of Koblenz, further deepening my knowledge in machine learning, data science, and modern web technologies.
 
-💼 Previously, I've built backend cloud microservices and data pipelines at Deep Data Labs Ltd in Bangladesh, showcasing my skills in cloud technologies and AWS services.
+💼 Past Experiences:
 
-📚 I hold a Bachelor's degree in Computer Science and Engineering from North South University and have several certifications, including AWS Certified Cloud Practitioner and Kaggle's Intro & Intermediate Machine Learning.
+Junior Data Scientist at Bingooo AG, Bonn: Processed millions of data points using PySpark and built machine learning models for regression and prediction tasks.
+Data Engineer at Deep Data Labs Ltd, Bangladesh: Built scalable backend cloud microservices and data pipelines leveraging AWS services like Lambda, S3, and EC2.
+📚 Education & Certifications:
 
-👨‍💻 My technical toolkit includes Python, PHP, Java, JavaScript, REST API, SQL, serverless frameworks, CI/CD pipelines, AWS services (S3, EC2, Lambda), Scikit Learn, Linux, Git, and deep learning frameworks like PyTorch and Keras.
+Bachelor's in Computer Science and Engineering from North South University.
+Certified AWS Cloud Practitioner.
+Completed Kaggle's Intro & Intermediate Machine Learning courses.
+👨‍💻 Technical Skills:
 
-🏆 I've published research on Fingerprint Alteration Classification and Signature Verification using Convolutional Neural Networks, participated in the DeepFake Detection Facebook Challenge, and worked on various projects ranging from loan defaulter prediction to COVID-19 visualization.
+Programming: Python, PHP, Java, JavaScript
+Frameworks & Libraries: PyTorch, TensorFlow, Keras, Scikit-learn
+Cloud: AWS (S3, EC2, Lambda), Serverless Frameworks, CI/CD Pipelines
+Tools: SQL, REST APIs, Git, Linux, PySpark
+🏆 Achievements:
 
-📈 I'm passionate about data science, machine learning, and cloud computing, always eager to learn more and tackle new challenges.
+Published research on Fingerprint Alteration Classification and Signature Verification using CNNs.
+Participated in the DeepFake Detection Facebook Challenge.
+Developed impactful projects, including loan defaulter prediction, COVID-19 data visualization, and more.
+📈 I am deeply passionate about data science, machine learning, and cloud computing, always seeking to contribute to meaningful projects and explore cutting-edge technologies.
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shayekhnavid/) or at shayekhnavid@gmail.com
+📫 Connect with me:
+
+LinkedIn: [https://www.linkedin.com/in/shayekhnavid/]
+Email: shayekhnavid@gmail.com
+
 
 
 
