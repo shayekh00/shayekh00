@@ -8,19 +8,25 @@ I am pursuing a Master's in Web and Data Science at the University of Koblenz, f
 
 💼 Past Experiences:
 
-Junior Data Scientist at Bingooo AG, Bonn: Processed millions of data points using PySpark and built machine learning models for regression and prediction tasks.
-Data Engineer at Deep Data Labs Ltd, Bangladesh: Built scalable backend cloud microservices and data pipelines leveraging AWS services like Lambda, S3, and EC2.
+• Junior Data Scientist at Bingooo AG: Processed millions of data points using PySpark and built machine learning models for regression and prediction tasks.
+
+• Data Engineer at Deep Data Labs Ltd: Built scalable backend cloud microservices and data pipelines leveraging AWS services like Lambda, S3, and EC2.
+
+
 📚 Education & Certifications:
 
 Bachelor's in Computer Science and Engineering from North South University.
+
 Certified AWS Cloud Practitioner.
-Completed Kaggle's Intro & Intermediate Machine Learning courses.
+
+
 👨‍💻 Technical Skills:
 
 Programming: Python, PHP, Java, JavaScript
 Frameworks & Libraries: PyTorch, TensorFlow, Keras, Scikit-learn
 Cloud: AWS (S3, EC2, Lambda), Serverless Frameworks, CI/CD Pipelines
 Tools: SQL, REST APIs, Git, Linux, PySpark
+
 🏆 Achievements:
 
 Published research on Fingerprint Alteration Classification and Signature Verification using CNNs.
