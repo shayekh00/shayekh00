@@ -30,7 +30,7 @@ I am pursuing a Master's in **Web and Data Science** at the University of Koblen
 
 
 📫 **Connect with me:**  
-- **LinkedIn:** [Your LinkedIn URL]  
+- **LinkedIn:** https://www.linkedin.com/in/shayekhnavid/
 - **Email:** shayekhnavid@gmail.com  
 
 
