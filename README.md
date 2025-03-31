@@ -11,6 +11,7 @@ I am pursuing a Master's in **Web and Data Science** at the University of Koblen
 - **Data Engineer** at **Deep Data Labs Ltd**, Bangladesh: Built scalable backend cloud microservices and data pipelines leveraging AWS services like Lambda, S3, and EC2.  
 
 📚 **Education & Certifications:**  
+- Masters in **Web and Data Science** from University of Koblenz.
 - Bachelor's in **Computer Science and Engineering** from North South University.  
 - Certified **AWS Cloud Practitioner**.  
 - Completed Kaggle's Intro & Intermediate Machine Learning courses.  
