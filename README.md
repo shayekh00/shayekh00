@@ -7,8 +7,10 @@ I am a Research Assistant at the **Fraunhofer Institute IAIS** in Sankt Augustin
 I am pursuing a Master's in **Web and Data Science** at the University of Koblenz, further deepening my knowledge in machine learning, data science, and modern web technologies.  
 
 💼 **Past Experiences:**  
-- **Junior Data Scientist** at **Bingooo AG**, Bonn: Processed millions of data points using PySpark and built machine learning models for regression and prediction tasks.  
-- **Data Engineer** at **Deep Data Labs Ltd**, Bangladesh: Built scalable backend cloud microservices and data pipelines leveraging AWS services like Lambda, S3, and EC2.  
+
+- **Research Assistant (AI & LLM)** at **Fraunhofer Institute IAIS**: Contributed to end-to-end development of vision-language models, improving VQA performance through multimodal fusion, knowledge distillation, and enhanced scene understanding.
+- **Junior Data Scientist** at **Bingooo AG**: Processed millions of data points using PySpark and built machine learning models for regression and prediction tasks.  
+- **Data Engineer** at **Deep Data Labs Ltd**: Built scalable backend cloud microservices and data pipelines leveraging AWS services like Lambda, S3, and EC2.  
 
 📚 **Education & Certifications:**  
 - Masters in **Web and Data Science** from University of Koblenz.
