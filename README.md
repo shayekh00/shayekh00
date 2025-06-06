@@ -1,4 +1,4 @@
-# Hi there, I'm Shayekh Mohiuddin Ahmed Navid 👋
+# Hi there, I'm Shayekh 👋
 
 🔭 **Currently:**  
 I am a Research Assistant at the **Fraunhofer Institute IAIS** in Sankt Augustin, Germany, where I focus on evaluating and optimizing strategies for Large Language Models (LLMs), including multi-modal systems and advanced neural networks.  
