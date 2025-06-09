@@ -24,7 +24,7 @@ I am pursuing a Master's in **Web and Data Science** at the University of Koblen
 
 👨‍💻 **Technical Skills:**  
 - Programming: Python, PHP, Java, JavaScript  
-- Frameworks & Libraries: PyTorch, TensorFlow, Keras, Scikit-learn  
+- Frameworks & Libraries: PyTorch, TensorFlow, Keras, Scikit-learn, LangGraph, LangChain.
 - Cloud: AWS (S3, EC2, Lambda), Serverless Frameworks, CI/CD Pipelines  
 - Tools: SQL, REST APIs, Git, Linux, PySpark  
 
