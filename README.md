@@ -3,7 +3,8 @@
 🔭 **Currently:**  
 I am a Research Assistant at the **Fraunhofer Institute IAIS** in Sankt Augustin, Germany, where I focus on evaluating and optimizing strategies for Large Language Models (LLMs), including multi-modal systems and advanced neural networks.  
 
-🚀 AI Engineering:
+🚀 **AI Engineering:**
+
 Beyond research, I actively engineer and deploy machine learning systems, particularly those involving large language and vision-language models. I have been working on multiple AI workflows projects, from data preprocessing and model fine-tuning to evaluation and deployment using tools like LangChain, LangGraph, Hugging Face and PyTorch Lightning. Recently I built scalable multi agent-based systems semantic search and retrieval-augmented generation. For me, AI engineering is not just about building models, but designing systems that make these models work efficiently and meaningfully in real contexts.
 
 🌱 **Academics:**  
